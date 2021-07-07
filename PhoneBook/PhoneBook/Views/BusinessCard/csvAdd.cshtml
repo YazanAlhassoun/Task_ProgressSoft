@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewBag.Title = "csvAdd";
+}
+
+<div id="contact" class="contact-us section">
+    <div class="container">
+        <div class="row">
+
+            <div class="col-lg-12 wow fadeInUp" data-wow-duration="0.5s" data-wow-delay="0.25s">
+
+                <label>Choose CSV File:</label>
+
+                @using (Html.BeginForm("csvAdd", "BusinessCard", FormMethod.Post, new { enctype = "multipart/form-data" }))
+                {
+                    <input type="file" name="postedFile" />
+                    <input type="submit" value="Upload" class="btn btn-primary" />
+                }
+
+            </div>
+        </div>
+    </div>
+</div>

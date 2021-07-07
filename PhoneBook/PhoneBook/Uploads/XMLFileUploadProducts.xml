@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<BusinessCards>
+
+
+  <BusinessCard>
+    <id>1</id>
+    <name>yazan</name>
+    <gender>mail</gender>
+    <dateOfBirth>07/04/1971</dateOfBirth>
+    <email>yazan3@gmail.com</email>
+    <phone>0798727713</phone>
+    <photo>fff</photo>
+    <address>amman</address>  
+  </BusinessCard>
+
+
+
+  <BusinessCard>
+    <id>2</id>
+    <name>zain</name>
+    <gender>mail</gender>
+    <dateOfBirth>07/04/1971</dateOfBirth>
+    <email>yazan4@gmail.com</email>
+    <phone>0798727713</phone>
+    <photo>fff</photo>
+    <address>amman</address>
+  </BusinessCard>
+
+
+  <BusinessCard>
+    <id>3</id>
+    <name>malik</name>
+    <gender>mail</gender>
+    <dateOfBirth>07/04/1971</dateOfBirth>
+    <email>yazan5@gmail.com</email>
+    <phone>0798727713</phone>
+    <photo>fff</photo>
+    <address>madba</address>
+  </BusinessCard>
+
+
+  <BusinessCard>
+    <id>4</id>
+    <name>nisreen</name>
+    <gender>mail</gender>
+    <dateOfBirth>07/04/1971</dateOfBirth>
+    <email>yazan6@gmail.com</email>
+    <phone>0798727713</phone>
+    <photo>fff</photo>
+    <address>tafila</address>
+  </BusinessCard>
+
+  <BusinessCard>
+    <id>1</id>
+    <name>ahmad</name>
+    <gender>mail</gender>
+    <dateOfBirth>07/04/1971</dateOfBirth>
+    <email>yazan7@gmail.com</email>
+    <phone>0798727713</phone>
+    <photo>fff</photo>
+    <address>karak</address>
+  </BusinessCard>
+
+  <BusinessCard>
+    <id>11</id>
+    <name>ahmad111</name>
+    <gender>mail</gender>
+    <dateOfBirth>07/04/1971</dateOfBirth>
+    <email>yazan7@gmail.com</email>
+    <phone>0798727713</phone>
+    <photo>fff</photo>
+    <address>karak</address>
+  </BusinessCard>
+
+
+
+  <!--<product>
+
+    <name>Jeans</name>
+    <price>999</price>
+    <quantity>2</quantity>
+  </product>-->
+  
+</BusinessCards>
